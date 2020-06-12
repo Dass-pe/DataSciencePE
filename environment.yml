@@ -13,6 +13,6 @@ dependencies:
   - dask
   - seaborn
   - missingno
-  - sklearn
+  - sklearn-0.0
   - scipy
   - os
