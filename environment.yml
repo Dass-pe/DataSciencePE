@@ -13,6 +13,5 @@ dependencies:
   - dask
   - seaborn
   - missingno
-  - sklearn-0.0
+  - scikit-learn
   - scipy
-  - os
